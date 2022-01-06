@@ -1,9 +1,9 @@
 # COVID-Data-Analysis
 
-> Steps to run the project 
+## Steps to run the project 
 > 1. Install the virtual environment for the Python project
-> a. Open command prompt or terminal
-> b. Go to “pythonproject” folder
+- a. Open command prompt or terminal
+- b. Go to “pythonproject” folder
 > c. Run the following commands to install virtual environment
 >> Python3 -m venv venv
 > d. Activate the virtual environment for MAC OS/LINUX
